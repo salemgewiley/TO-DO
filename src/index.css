@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  font-family: "Cairo", sans-serif;
+}
+input {
+  transition: border 0.2s ease-in-out;
+}
+
+input:focus {
+  border-color: #38bdf8; /* Change border color on focus */
+}

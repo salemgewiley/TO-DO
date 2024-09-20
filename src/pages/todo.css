@@ -1,0 +1,18 @@
+.custom-date-input::-webkit-input-placeholder {
+  color: white;
+}
+
+.custom-date-input::-moz-placeholder {
+  color: white;
+}
+
+.custom-date-input:-ms-input-placeholder {
+  color: white;
+}
+
+.custom-date-input::placeholder {
+  color: white;
+}
+.custom-date-input {
+  color: white; /* Ensures text color is white */
+}
